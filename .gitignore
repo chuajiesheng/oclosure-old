@@ -8,4 +8,5 @@
 *.cmxs
 *.cmxa
 
+oclosure_req
 *~
