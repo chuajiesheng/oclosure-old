@@ -8,5 +8,12 @@
 *.cmxs
 *.cmxa
 
+*.byte
+*.js
+*.jse
+*.pyc
+
+*.oclosure
+
 oclosure_req
 *~
